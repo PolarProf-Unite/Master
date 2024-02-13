@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <None Include="..\..\ProjectTemplete.uproject" />
+    <Filter Include="Source">
+      <UniqueIdentifier>{F31BBDD1-B3E8-3BCC-9652-680E16935819}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\ProjectTemplete.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\Source\ProjectTempleteEditor.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <Filter Include="Config">
+      <UniqueIdentifier>{FA535FFB-25E1-3D20-B416-52F9BE21E06E}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\DefaultEditor.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEditorPerProjectUserSettings.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEngine.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultGame.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultInput.ini">
+      <Filter>Config</Filter>
+    </None>
+    <Filter Include="Source\ProjectTemplete">
+      <UniqueIdentifier>{A8FF6512-6FA7-3767-B0EE-0BE99CCBBD70}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\ProjectTemplete\ProjectTemplete.Build.cs">
+      <Filter>Source\ProjectTemplete</Filter>
+    </None>
+    <ClCompile Include="..\..\Source\ProjectTemplete\ProjectTemplete.cpp">
+      <Filter>Source\ProjectTemplete</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\ProjectTemplete\ProjectTemplete.h">
+      <Filter>Source\ProjectTemplete</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\ProjectTemplete\ProjectTempleteCharacter.cpp">
+      <Filter>Source\ProjectTemplete</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\ProjectTemplete\ProjectTempleteCharacter.h">
+      <Filter>Source\ProjectTemplete</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\ProjectTemplete\ProjectTempleteGameMode.cpp">
+      <Filter>Source\ProjectTemplete</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\ProjectTemplete\ProjectTempleteGameMode.h">
+      <Filter>Source\ProjectTemplete</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\ProjectTemplete\ProjectTempletePlayerController.cpp">
+      <Filter>Source\ProjectTemplete</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\ProjectTemplete\ProjectTempletePlayerController.h">
+      <Filter>Source\ProjectTemplete</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>

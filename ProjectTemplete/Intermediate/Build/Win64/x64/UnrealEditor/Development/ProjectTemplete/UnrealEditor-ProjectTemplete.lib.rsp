@@ -1,0 +1,19 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UnrealEditor-ProjectTemplete.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"C:\Users\gosh5\Documents\Unreal Projects\projects\ProjectTemplete\Intermediate\Build\Win64\x64\ProjectTempleteEditor\Development\UnrealEd\SharedPCH.UnrealEd.Cpp20.h.obj"
+"C:\Users\gosh5\Documents\Unreal Projects\projects\ProjectTemplete\Intermediate\Build\Win64\x64\UnrealEditor\Development\ProjectTemplete\ProjectTemplete.init.gen.cpp.obj"
+"C:\Users\gosh5\Documents\Unreal Projects\projects\ProjectTemplete\Intermediate\Build\Win64\x64\UnrealEditor\Development\ProjectTemplete\ProjectTempleteCharacter.gen.cpp.obj"
+"C:\Users\gosh5\Documents\Unreal Projects\projects\ProjectTemplete\Intermediate\Build\Win64\x64\UnrealEditor\Development\ProjectTemplete\ProjectTempleteGameMode.gen.cpp.obj"
+"C:\Users\gosh5\Documents\Unreal Projects\projects\ProjectTemplete\Intermediate\Build\Win64\x64\UnrealEditor\Development\ProjectTemplete\ProjectTempletePlayerController.gen.cpp.obj"
+"C:\Users\gosh5\Documents\Unreal Projects\projects\ProjectTemplete\Intermediate\Build\Win64\x64\UnrealEditor\Development\ProjectTemplete\ProjectTemplete.cpp.obj"
+"C:\Users\gosh5\Documents\Unreal Projects\projects\ProjectTemplete\Intermediate\Build\Win64\x64\UnrealEditor\Development\ProjectTemplete\ProjectTempleteCharacter.cpp.obj"
+"C:\Users\gosh5\Documents\Unreal Projects\projects\ProjectTemplete\Intermediate\Build\Win64\x64\UnrealEditor\Development\ProjectTemplete\ProjectTempleteGameMode.cpp.obj"
+"C:\Users\gosh5\Documents\Unreal Projects\projects\ProjectTemplete\Intermediate\Build\Win64\x64\UnrealEditor\Development\ProjectTemplete\ProjectTempletePlayerController.cpp.obj"
+"C:\Users\gosh5\Documents\Unreal Projects\projects\ProjectTemplete\Intermediate\Build\Win64\x64\UnrealEditor\Development\ProjectTemplete\Default.rc2.res"
+/OUT:"C:\Users\gosh5\Documents\Unreal Projects\projects\ProjectTemplete\Intermediate\Build\Win64\x64\UnrealEditor\Development\ProjectTemplete\UnrealEditor-ProjectTemplete.lib"

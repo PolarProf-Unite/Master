@@ -1,0 +1,15 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "c:\\users\\gosh5\\documents\\unreal projects\\projects\\projecttemplete\\intermediate\\build\\win64\\unrealeditor\\inc\\projecttemplete\\uht\\projecttempleteplayercontroller.gen.cpp",
+        "ProvidedModule": "",
+        "PCH": "c:\\users\\gosh5\\documents\\unreal projects\\projects\\projecttemplete\\intermediate\\build\\win64\\x64\\projecttempleteeditor\\development\\unrealed\\sharedpch.unrealed.cpp20.h.pch",
+        "Includes": [
+            "c:\\users\\gosh5\\documents\\unreal projects\\projects\\projecttemplete\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\projecttemplete\\definitions.projecttemplete.h",
+            "c:\\users\\gosh5\\documents\\unreal projects\\projects\\projecttemplete\\source\\projecttemplete\\projecttempleteplayercontroller.h",
+            "c:\\users\\gosh5\\documents\\unreal projects\\projects\\projecttemplete\\intermediate\\build\\win64\\unrealeditor\\inc\\projecttemplete\\uht\\projecttempleteplayercontroller.generated.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

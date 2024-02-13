@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "ProjectTemplete",
+			"Path": "..\\Source\\ProjectTemplete.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "ProjectTempleteEditor",
+			"Path": "..\\Source\\ProjectTempleteEditor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}

@@ -1,0 +1,8 @@
+{
+	"SourceFiles": [
+		"C:\\Users\\gosh5\\Documents\\Unreal Projects\\projects\\ProjectTemplete\\Source\\ProjectTemplete\\ProjectTemplete.Build.cs",
+		"C:\\Users\\gosh5\\Documents\\Unreal Projects\\projects\\ProjectTemplete\\Source\\ProjectTemplete.Target.cs",
+		"C:\\Users\\gosh5\\Documents\\Unreal Projects\\projects\\ProjectTemplete\\Source\\ProjectTempleteEditor.Target.cs"
+	],
+	"EngineVersion": "5.3.1"
+}
